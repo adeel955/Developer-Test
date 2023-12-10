@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Beer Api/.vs
+/Beer Api/BeerCollectionApi/bin/Debug/net8.0
+/Beer Api/BeerCollectionApi/obj
+/Sukodu/.vs
+/Sukodu/bin/Debug/net8.0
+/Sukodu/obj
